@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cs365Project1Rewrite": {
+      "commandName": "Project",
+      "commandLineArgs": "test.asm"
+    }
+  }
+}

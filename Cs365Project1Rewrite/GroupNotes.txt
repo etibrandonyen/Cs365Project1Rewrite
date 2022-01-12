@@ -1,0 +1,37 @@
+Duties:
+
+Brandon:
+	Mul DONE
+	Div DONE (No test case) Looks fine
+	Rem DONE (No test case) Looks fine
+	And DONE (No test case) Looks fine
+	Or DONE (No test case) Looks fine
+	Xor DONE (No test case) Looks fine
+	Neg DONE
+
+Austyn:
+	Not DONE 
+	Goto DONE
+	If[] DONE
+	If[] DONE
+	Dup DONE
+	Print DONE
+	Dump DONE
+	Push DONE
+
+
+Charlie:
+	Read in DONE
+	Makefile DONE
+	Exit DONE
+	Swap DONE
+	Inpt DONE (No test case) Looks fine
+	Nop DONE
+	Pop DONE (No test case) Looks fine
+	Add DONE
+	Sub DONE (No test case) Looks fine
+	Output
+		-Endianness Swap????
+		-Actually output in foreach loop
+		-Call fileWrite from Main
+		-Check if endianness is in correct order??
